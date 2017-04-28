@@ -1,3 +1,3 @@
 # Tesserae
-A mosiac of my stuff# mountzionryan.github.io
+A mosiac of my stuff
 # mountzionryan.github.io
