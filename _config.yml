@@ -16,7 +16,7 @@
 title: Tesserae
 email: mountzionryan @ gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-tessera (plural tesserae); 1. A small square piece of stone, wood, ivory or glass used for making a mosaic.
+  Tessera - (pl. tesserae) A small square piece of stone, wood, ivory or glass used for making a mosaic.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
